@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <root>
     <nbrLamp>
-        <wayBelfort>42</wayBelfort>
+        <wayBelfort>41</wayBelfort>
         <wayVosges>24</wayVosges>
         <wayAu>10</wayAu>
         <wayEcluse>20</wayEcluse>
