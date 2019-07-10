@@ -48,5 +48,5 @@ Le XML est TRES LOURD mais il permettrais d'automatisation la création de page 
 
 3. Pour les infos
 
-J'ai bien entendu FULL BULLSHIT les chiffres d'économie, faudra téma comment on peut réellement calculer ça?
+J'ai bien entendu FULL BULLSHIT les chiffres d'économie, faudra regarder comment on peut réellement calculer ça?
 En fonction du nombre de lampadaires * différence d'énergie gagnée (prix énergie avant - prix énergie avec les nouveau lamp).
